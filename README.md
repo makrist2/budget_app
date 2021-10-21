@@ -3,6 +3,7 @@
 1) Go to project directory
 2) python db_operations.py
 3) python main.py
+4) Then just follow menu :)
 
 Main menu: ![image](https://user-images.githubusercontent.com/38978002/138325164-578c427b-0d65-4afb-a93d-a338ee75b59f.png)
 
